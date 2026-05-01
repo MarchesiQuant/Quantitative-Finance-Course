@@ -44,5 +44,19 @@ This module introduces the core ideas of risk-neutral pricing (RNP) in both disc
 - Transition to continuous-time models
 - Stochastic calculus and the Feynman–Kac theorem
 
+### 4. Introduction to Derivatives Valuation
+**PDF:** Introduction to Derivatives Pricing.pdf
+
+This module provides a big-picture view of derivatives valuation. Information in this field is often fragmented across books, notes, and courses — this presentation brings together, in a single place, both a clear interpretation and a complete valuation framework.
+
+It covers the key building blocks in Equity and Interest Rates in a structured way:
+
+**Topics include:**
+- Vanilla and exotic instruments
+- Valuation frameworks (Black-Scholes, Trees, Monte Carlo, PDEs)
+- Volatility smile/surface and no-arbitrage conditions
+- Advanced models such as Heston, Local Vol, and Hull-White
+
+
 ---
 
